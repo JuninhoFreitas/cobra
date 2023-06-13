@@ -24,6 +24,8 @@ Aqui estão alguns dos conhecimentos explorados neste repositório:
 
 - **Calc Sum:** Uma calculadora de soma simples que aceita dois números como entrada e retorna a soma deles. Ótimo para praticar a criação de funções e a manipulação de variáveis.
 
+- **Cobra CLI:** O principal era usar o Cobra CLI para criar uma aplicação que pudesse ser utilizada via CLI, então usei Flags e Arguments da forma que pude
+
 ## Como usar
 
 - Primeiro suba o docker-compose
