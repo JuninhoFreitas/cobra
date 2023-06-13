@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "name": "Default Task",
+      "status": false
+    },
+    {
+      "name": "eu",
+      "status": true
+    },
+    {
+      "name": "coe",
+      "status": false
+    }
+  ]
+}
